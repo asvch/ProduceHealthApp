@@ -1,5 +1,6 @@
 ## Machine Learning Android Image Classification App for Produce!
 Android application with a trained Convolutional Neural Network (CNN) model to detect disease in fruits and vegetables.
+- Utilized Python, TensorFlow, Keras, OpenCV, Numpy, and Kotlin.
 - Dataset consisting of 29k images from 28 different classifications of healthy and rotten produce items from [Kaggle](https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten).
 - Fine-tuned ResNet-50 CNN model built and trained in [produce-tf.ipynb](https://github.com/asvch/ProduceHealthApp/blob/master/produce-tf.ipynb).
 - Model attained a sparse categorical accuracy of 96.3\%.
